@@ -2,7 +2,7 @@
   "name": "pmtinterface",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://colwsmrtprd01.jcpenney.com/PMTInterface/",
+  "homepage": "https://interface-monitor-nik.herokuapp.com/PMTInterface/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
