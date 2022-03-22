@@ -1,0 +1,104 @@
+.logo{
+    text-decoration: none;
+    margin-left: 40%;
+    color: #05386B;
+    font-size: xxx-large;
+    font-variant: all-petite-caps;
+}
+.nav-wrapper{
+    background-color: #5CDB95
+}
+#content{
+    padding-top: 20vh;
+    height: 100%;
+    width: 100%;
+}
+#container{
+   display: flex;
+   height: 100%;
+   width: 100%;
+}
+.carddet{
+    display: grid;
+    padding: 4%;
+    border-radius: 5px;
+    margin: 0.5rem 1rem;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px;
+}
+.tab-content{
+    margin-top: 1vh;
+    height: 100%;
+}
+.nav-link,.nav-item {
+    color: #5CDB95;
+}
+.tabs{
+    width: 100%;
+}
+.ui.container{
+    height: 100%;
+}
+.tabs.tab-pane.active{
+    height: 100%;
+    display: contents;
+}
+.nav-tabs.nav-link{
+    text-decoration: none;
+}
+.dateDisplay{
+    position: relative;
+    float: right;
+    text-align: center;
+    border-bottom: none;
+    display: flex;
+    width: auto;
+}
+#mainContainer{
+    width: 100%;
+}
+input{
+    border-bottom: none;
+}
+.details{
+    height: 100%;
+}
+.cardDetails{
+    height: 100%;
+}
+.result{
+    height: 100%;
+}
+#body{
+    height: 100%;
+    width: 100%;
+}
+.ResultColorWhite{
+    background-color: white;
+    font-weight: bold;
+    color:black;
+}
+.ResultColorYellow{
+    background-color: yellow;
+    font-weight: bold;
+    color: black;
+}
+.ResultColorGreen{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+.ResultColorRed{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+.legend { list-style: none; }
+.legend li { float: left; margin-right: 10px; }
+.legend span { border: 1px solid #ccc; float: left; width: 12px; height: 12px; margin: 2px; }
+/* your colors */
+.legend .allgood { background-color: green; }
+.legend .exception { background-color: yellow; }
+.legend .err { background-color: red; }
+.card{
+    border-radius: 40px;
+}
