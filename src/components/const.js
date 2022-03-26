@@ -1,13 +1,13 @@
-export const API_SERVER="http://colwsmrtprd01.jcpenney.com/pmtinterfacewebapi/Api/pmtinterface/";
-export const API_PMT_INT_LKP_ALL="GetAllPMTInterfaceLookup";
-export const API_PMT_INT_APP_ST="GetPMTInterfaceAppsByStatus";
-export const API_PMT_INT_LD_ST_ALL="GetAllPMTInterfaceLoadStatus";
-export const API_PMT_INT_LD_ST_DT="GetPMTInterfaceLoadStatusByDate?date=";
-export const API_PMT_INT_CNT_ALL="GetAllPMTInterfaceCount";
-export const API_PMT_INT_CNT_DT="GetPMTInterfaceCountByDate?date=";
-export const API_PMT_INT_DAT_ALL="GetAllPMTInterfaceData";
-export const API_PMT_INT_DAT_DT="GetPMTInterfaceDataByDate?date=";
-export const API_PMT_INT_DAT_ID_DT="GetPMTInterfaceDataByIdAndDate?date=";
-export const API_ST_Y="?status=y"
-export const API_ST_N="?status=n"
-export const API_INT_ID="&&IntId="
+// export const API_SERVER="http://colwsmrtprd01.jcpenney.com/pmtinterfacewebapi/Api/pmtinterface/";
+// export const API_PMT_INT_LKP_ALL="GetAllPMTInterfaceLookup";
+// export const API_PMT_INT_APP_ST="GetPMTInterfaceAppsByStatus";
+// export const API_PMT_INT_LD_ST_ALL="GetAllPMTInterfaceLoadStatus";
+// export const API_PMT_INT_LD_ST_DT="GetPMTInterfaceLoadStatusByDate?date=";
+// export const API_PMT_INT_CNT_ALL="GetAllPMTInterfaceCount";
+// export const API_PMT_INT_CNT_DT="GetPMTInterfaceCountByDate?date=";
+// export const API_PMT_INT_DAT_ALL="GetAllPMTInterfaceData";
+// export const API_PMT_INT_DAT_DT="GetPMTInterfaceDataByDate?date=";
+// export const API_PMT_INT_DAT_ID_DT="GetPMTInterfaceDataByIdAndDate?date=";
+// export const API_ST_Y="?status=y"
+// export const API_ST_N="?status=n"
+// export const API_INT_ID="&&IntId="

@@ -6,7 +6,7 @@ const Heading=(props)=>{
         <div className="header">
             <nav className="nav-extended">
                 <div className="nav-wrapper">
-                    <Link id="position" to="/PMTInterface/" className="logo">PMT Interface</Link>   
+                    <Link id="position" to="/ABCInterface/" className="logo">ABC Interface</Link>   
                 </div>                     
             </nav>
         </div>
